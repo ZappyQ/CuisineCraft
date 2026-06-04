@@ -23,18 +23,20 @@ Ever wanted to run your own restaurant in Minecraft? Now you can! This mod adds 
 | 🥫 **Ketchup** | Squeeze bottle with limited uses |
 | 🥫 **Mustard** | Squeeze bottle with limited uses |
 | 🧂 **Salt** | Mined from underground Salt Ore |
-| 🥣 **Tomato Soup** | Can be crafted using water, stock, tomatoes and a knife |
+| 🥣 **Tomato Soup** | Crafted using water, stock, tomatoes and a knife |
+| 🍚 **Rice** | Harvested from rice paddies grown on water |
 
 ---
 
 ## 🌱 Crops & Farming
 
-Grow your own ingredients! Four new crops can be discovered by breaking grass:
+Grow your own ingredients! Five new crops can be discovered by breaking grass:
 
 - 🍅 **Tomato Plant** — drops fresh Tomatoes
 - 🥒 **Cucumber Plant** — for that extra crunch
 - 🧅 **Onion Plant** — because every dish needs one
 - 🌿 **Mustard Plant** — grow your own condiments
+- 🌾 **Rice Plant** — a unique water crop! Place Rice Seeds by right-clicking on the ground beneath shallow water. Grows in 4 stages and drops Rice when fully mature.
 
 > 💡 Seeds drop randomly **(10% chance)** when breaking **Grass** — just like real-life foraging!
 
