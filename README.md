@@ -25,6 +25,21 @@ Ever wanted to run your own restaurant in Minecraft? Now you can! This mod adds 
 | 🧂 **Salt** | Mined from underground Salt Ore |
 | 🥣 **Tomato Soup** | Crafted using water, stock, tomatoes and a knife |
 | 🍚 **Rice** | Harvested from rice paddies grown on water |
+| 🦐 **Raw Shrimp** | Dropped by Shrimp found in ocean biomes |
+| 🦐 **Cooked Shrimp** | Smelt Raw Shrimp in a furnace for a tasty seafood snack |
+
+---
+
+## 🌊 Mobs
+
+### 🦐 Shrimp
+A new ocean creature that brings life to the seafloor!
+
+- Spawns naturally in **ocean biomes** in large groups (8–20)
+- Spends most of its time **resting on the seafloor**, occasionally darting forward
+- **Dies on land** — it's a sea creature after all
+- Drops **1x Raw Shrimp** when killed, plus **1–3 XP**
+- Can also be spawned using the **Shrimp Spawn Egg**
 
 ---
 
