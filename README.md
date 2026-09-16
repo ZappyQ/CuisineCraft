@@ -1,103 +1,163 @@
 # 🥗 CulinaryCraft
 
-### **Bring the taste of a real kitchen to Minecraft!**
+**Bring the taste of a real kitchen to Minecraft!**
 
-Ever wanted to run your own restaurant in Minecraft? Now you can! This mod adds a whole culinary experience to your world — from growing fresh ingredients to frying up crispy fries in a custom Frying Station.
-
----
-
-## 🍔 Food Items
-
-| Item | Description |
-|------|-------------|
-| 🍔 **Hamburger** | The classic, always satisfying |
-| 🍔 **Cheeseburger** | Topped with American Cheese |
-| 🍔 **Double Cheeseburger** | Double the beef, double the fun |
-| 🍞 **Wheat Bun** | Craft your burgers from scratch |
-| 🧀 **American Cheese** | The real deal |
-| 🥩 **Raw Patty** | Craft from raw beef, then cook in a furnace |
-| 🍖 **Patty** | The cooked burger patty, used in all burger recipes |
-| 🍟 **Small Fries** | Fresh from the Frying Station |
-| 🍟 **Medium Fries** | Fresh from the Frying Station |
-| 🍟 **Big Fries** | Fresh from the Frying Station |
-| 🥫 **Ketchup** | Squeeze bottle with limited uses |
-| 🥫 **Mustard** | Squeeze bottle with limited uses |
-| 🧂 **Salt** | Mined from underground Salt Ore |
-| 🥣 **Tomato Soup** | Crafted using water, stock, tomatoes and a knife |
-| 🍚 **Rice** | Harvested from rice paddies grown on water |
-| 🦐 **Raw Shrimp** | Dropped by Shrimp found in ocean biomes |
-| 🦐 **Cooked Shrimp** | Smelt Raw Shrimp in a furnace for a tasty seafood snack |
+CulinaryCraft expands Minecraft with new ingredients, crops, meals, cooking tools, ocean creatures, and a fully functional Fryer. Grow fresh produce, catch shrimp, prepare multi-step recipes, and build your own restaurant or kitchen!
 
 ---
 
-## 🌊 Mobs
+## ✨ What’s New in Version 0.0.6?
 
-### 🦐 Shrimp
-A new ocean creature that brings life to the seafloor!
-
-- Spawns naturally in **ocean biomes** in large groups (8–20)
-- Spends most of its time **resting on the seafloor**, occasionally darting forward
-- **Dies on land** — it's a sea creature after all
-- Drops **1x Raw Shrimp** when killed, plus **1–3 XP**
-- Can also be spawned using the **Shrimp Spawn Egg**
-
----
-
-## 🌱 Crops & Farming
-
-Grow your own ingredients! Five new crops can be discovered by breaking grass:
-
-- 🍅 **Tomato Plant** — drops fresh Tomatoes
-- 🥒 **Cucumber Plant** — for that extra crunch
-- 🧅 **Onion Plant** — because every dish needs one
-- 🌿 **Mustard Plant** — grow your own condiments
-- 🌾 **Rice Plant** — a unique water crop! Place Rice Seeds by right-clicking on the ground beneath shallow water. Grows in 4 stages and drops Rice when fully mature.
-
-> 💡 Seeds drop randomly **(10% chance)** when breaking **Grass** — just like real-life foraging!
+- Added **Breadcrumbs**
+- Added **Breaded Shrimp**
+- Added **Crispy Shrimp**, prepared in the Fryer
+- Added the **Shrimp Burger**
+- Added **Shrimp Fried Rice**
+- Shrimp Fried Rice returns its bowl after being eaten
+- Improved Shrimp spawning in ocean biomes
+- Fixed the Shrimp model facing the wrong direction
+- Improved compatibility and gameplay consistency across all supported versions
+- Updated food textures and transparency
 
 ---
 
-## 🛠️ Tools
+## 🍔 Food and Ingredients
 
-- 🍳 **Spatula** — the essential cooking tool, used as a crafting ingredient
-- 🔪 **Knife** — a durable iron knife for food preparation. Works as a **crafting remainder** — loses durability with each use!
+### Burgers
+
+- **Hamburger** — a classic burger made with fresh ingredients
+- **Cheeseburger** — a Hamburger topped with American Cheese
+- **Double Cheeseburger** — double the patties and double the cheese
+- **Shrimp Burger** — a seafood burger made with Crispy Shrimp, vegetables, ketchup, and a Wheat Bun
+- **Wheat Bun** — used as the base for burger recipes
+- **American Cheese** — used in Cheeseburgers and Double Cheeseburgers
+- **Raw Patty** — made from raw beef and cooked in a furnace
+- **Patty** — a cooked burger patty used in burger recipes
+
+### Shrimp Dishes
+
+- **Raw Shrimp** — dropped by Shrimp living in ocean biomes
+- **Cooked Shrimp** — obtained by cooking Raw Shrimp in a furnace
+- **Breadcrumbs** — crafted from bread and used for coating shrimp
+- **Breaded Shrimp** — Raw Shrimp coated with Breadcrumbs and Salt
+- **Crispy Shrimp** — Breaded Shrimp cooked in the Fryer
+- **Shrimp Fried Rice** — a filling meal made with Rice, Cooked Shrimp, Onion, Salt, and Stock
+
+### Other Food
+
+- **Small, Medium, and Big Fries** — prepare fries in the Fryer and turn them into different portions
+- **Tomato Soup** — made using Tomatoes, Stock, water, and a Knife
+- **Rice** — harvested from Rice Plants and edible on its own
+- **Ketchup and Mustard** — reusable condiment bottles with limited durability
+- **Salt** — obtained by mining underground Salt Ore
 
 ---
 
-## ⛏️ World Generation
+## 🌊 Shrimp
 
-- **Salt Ore** — spawns underground in stone layers. Mine it to obtain Salt for seasoning your food!
+Shrimp are new aquatic creatures found naturally in **ocean biomes**.
 
----
+They:
 
-## 🍳 Frying Station
+- Spawn in groups near the ocean floor
+- Stay close to the seabed
+- Occasionally dart forward
+- Cannot survive on land
+- Drop **Raw Shrimp** and experience when killed
+- Can also be spawned using a **Shrimp Spawn Egg**
 
-The heart of the mod! The **Frying Station** works like a furnace but uses **custom frying recipes**.
-
-- Toss in raw fries, add some fuel, and get perfectly fried results
-- The block **lights up** when active
-- Works with hoppers for automation
-
----
-
-## 📖 Wiki & Documentation
-
-For crafting recipes, farming guides, and full mod documentation, check out the official wiki:
-
-### 👉 [CulinaryCraft Wiki](https://culinarycraft.fandom.com/wiki/CulinaryCraft_Wiki)
-
-For all my creations, check out [my linktree](https://linktr.ee/zappyq/)
+Shrimp do not naturally spawn in rivers or lakes.
 
 ---
 
-## 💡 Got Ideas?
+## 🌱 Crops and Farming
 
-If you have ideas for new items, blocks, recipes, or features — whether it's **pizza, a grill block, soup recipes**, or anything else — **share them in the comments!**
+Grow fresh ingredients for your recipes!
 
-I'd love to hear your suggestions and will be happy to implement the best ones into future updates. 🎉
+- **Tomato Plant** — produces fresh Tomatoes
+- **Cucumber Plant** — produces crunchy Cucumbers
+- **Onion Plant** — produces Onions used in many dishes
+- **Mustard Plant** — provides ingredients for Mustard
+- **Rice Plant** — a special water crop grown in shallow water
+
+Most seeds can be found by breaking grass. Rice Seeds must be planted on suitable ground beneath shallow water. Fully grown crops provide multiple ingredients and additional seeds.
+
+---
+
+## 🛠️ Cooking Tools
+
+- **Spatula** — an essential cooking tool used in crafting recipes
+- **Knife** — a durable food-preparation tool that loses durability instead of being consumed during crafting
+- **Bowl** — used for soups, stock, and Shrimp Fried Rice
+- **Stock** — an important base ingredient for soups and rice dishes
+
+---
+
+## ⛏️ Salt Ore
+
+Salt Ore generates underground in the Overworld.
+
+Mine it to obtain **Salt**, an important seasoning used in several recipes. Salt Ore supports both **Fortune** and **Silk Touch**.
+
+---
+
+## 🍳 Fryer
+
+The **Fryer** is the heart of your kitchen!
+
+It works similarly to a furnace but uses dedicated frying recipes. Add fuel and the correct ingredient to prepare:
+
+- Fried Fries
+- Crispy Shrimp
+- Additional fried foods planned for future updates
+
+The Fryer includes its own interface and recipe handling.
+
+---
+
+## 🎮 Supported Versions
+
+CulinaryCraft 0.0.6 is available for:
+
+### Forge
+
+- Minecraft 1.12.2
+- Minecraft 1.16.5
+- Minecraft 1.18.2
+- Minecraft 1.19.2
+- Minecraft 1.20.1
+- Minecraft 1.21.1
+
+### Fabric
+
+- Minecraft 1.21.1
+
+### NeoForge
+
+- Minecraft 1.21.1
+
+Make sure to download the file matching both your Minecraft version and mod loader.
+
+---
+
+## 📖 Wiki and Documentation
+
+For crafting recipes, farming guides, and additional documentation, visit the official wiki:
+
+👉 [CulinaryCraft Wiki](https://culinarycraft.fandom.com/wiki/CulinaryCraft_Wiki)
+
+You can also find my other projects here:
+
+👉 [ZappyQ’s Linktree](https://linktr.ee/zappyq/)
+
+---
+
+## 💡 Suggestions and Feedback
+
+Have an idea for a new dish, ingredient, crop, mob, or cooking block?
+
+Whether it is pizza, a grill, new soups, seafood recipes, or something completely different, feel free to share your suggestions in the comments. The best ideas may be added in future CulinaryCraft updates!
 
 ---
 
 *Made with ❤️ by ZappyQ*
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z51UE2EQ)
