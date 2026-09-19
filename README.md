@@ -130,6 +130,7 @@ CuisineCraft 0.0.6 is available for:
 
 ### Fabric
 
+- Minecraft 1.20.1
 - Minecraft 1.21.1
 
 ### NeoForge
