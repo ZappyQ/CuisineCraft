@@ -1,8 +1,8 @@
-# 🥗 CulinaryCraft
+# 🥗 CuisineCraft
 
 **Bring the taste of a real kitchen to Minecraft!**
 
-CulinaryCraft expands Minecraft with new ingredients, crops, meals, cooking tools, ocean creatures, and a fully functional Fryer. Grow fresh produce, catch shrimp, prepare multi-step recipes, and build your own restaurant or kitchen!
+CuisineCraft expands Minecraft with new ingredients, crops, meals, cooking tools, ocean creatures, and a fully functional Fryer. Grow fresh produce, catch shrimp, prepare multi-step recipes, and build your own restaurant or kitchen!
 
 ---
 
@@ -117,7 +117,7 @@ The Fryer includes its own interface and recipe handling.
 
 ## 🎮 Supported Versions
 
-CulinaryCraft 0.0.6 is available for:
+CuisineCraft 0.0.6 is available for:
 
 ### Forge
 
@@ -144,7 +144,7 @@ Make sure to download the file matching both your Minecraft version and mod load
 
 For crafting recipes, farming guides, and additional documentation, visit the official wiki:
 
-👉 [CulinaryCraft Wiki](https://culinarycraft.fandom.com/wiki/CulinaryCraft_Wiki)
+👉 [CuisineCraft Wiki](https://culinarycraft.fandom.com/wiki/CulinaryCraft_Wiki)
 
 You can also find my other projects here:
 
