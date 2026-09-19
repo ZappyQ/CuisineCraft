@@ -156,7 +156,7 @@ You can also find my other projects here:
 
 Have an idea for a new dish, ingredient, crop, mob, or cooking block?
 
-Whether it is pizza, a grill, new soups, seafood recipes, or something completely different, feel free to share your suggestions in the comments. The best ideas may be added in future CulinaryCraft updates!
+Whether it is pizza, a grill, new soups, seafood recipes, or something completely different, feel free to share your suggestions in the comments. The best ideas may be added in future CuisineCraft updates!
 
 ---
 
